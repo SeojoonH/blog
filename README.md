@@ -1,4 +1,4 @@
-#  Personal Blog Web Page
+#  Personal Blog Web Page (수정 중)
 > For resume, cover letter, and portfolio <br />
 개발 기간: 23.07.10 - ```~ing```
 
