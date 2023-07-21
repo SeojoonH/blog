@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { FaBars, FaTimes, FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
-import { BsFillPersonLinesFill } from "react-icons/bs";
+import { SiVelog } from "react-icons/si";
 
 import { Link } from "react-scroll";
 
@@ -103,7 +103,9 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="https://www.linkedin.com/in/%EC%84%9C%EC%A4%80-%ED%99%A9-b68b99220"
+              target="_blank"
+              rel="noopener noreferrer"
             >
               Linkedin <FaLinkedin size={30} />
             </a>
@@ -111,7 +113,9 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-gray-900">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="https://github.com/SeojoonH"
+              target="_blank"
+              rel="noopener noreferrer"
             >
               Github <FaGithub size={30} />
             </a>
@@ -119,7 +123,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-rose-600">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="MAILTO: iamaloneinseoul@gmail.com"
             >
               Gmail <HiOutlineMail size={30} />
             </a>
@@ -127,9 +131,11 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-cyan-600">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="https://velog.io/@seojoonspick"
+              target="_blank"
+              rel="noopener noreferrer"
             >
-              Resume <BsFillPersonLinesFill size={30} />
+              Velog <SiVelog size={30} />
             </a>
           </li>
         </ul>
