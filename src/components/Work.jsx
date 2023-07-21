@@ -30,6 +30,7 @@ const Work = () => {
                 <a
                   href="https://seojoonh.github.io/car-homepage"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   <button
                     className="text-center rounded-lg px-4 py-3 m-2
@@ -42,6 +43,7 @@ const Work = () => {
                 <a
                   href="https://github.com/SeojoonH/car-homepage"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   <button
                     className="text-center rounded-lg px-4 py-3 m-2
@@ -69,6 +71,7 @@ const Work = () => {
                 <a
                   href="https://seojoonh.github.io/reactwebapp"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   <button
                     className="text-center rounded-lg px-4 py-3 m-2
@@ -81,6 +84,7 @@ const Work = () => {
                 <a
                   href="https://github.com/SeojoonH/reactwebapp"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   <button
                     className="text-center rounded-lg px-4 py-3 m-2
@@ -108,6 +112,7 @@ const Work = () => {
                 <a
                   href="https://seojoonh.github.io/imitationKakaoBank"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   <button
                     className="text-center rounded-lg px-4 py-3 m-2
@@ -120,6 +125,7 @@ const Work = () => {
                 <a
                   href="https://github.com/SeojoonH/imitationKakaoBank"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   <button
                     className="text-center rounded-lg px-4 py-3 m-2
