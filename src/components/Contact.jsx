@@ -15,7 +15,7 @@ const Contact = () => {
           <p className="text-4xl font-bold inline border-b-4 border-yellow-500 text-gray-300">
             Contact
           </p>
-          <p className="text-gray-300 py-4">메일을 남겨 주세요.</p>
+          <p className="text-gray-300 py-4">코멘트를 남겨 주세요.</p>
         </div>
         <input
           className="bg-[#ccd6f6] p-2"
@@ -36,7 +36,7 @@ const Contact = () => {
           placeholder="Message"
         ></textarea>
         <button className="text-white border-2 hover:bg-cyan-600 hover:border-cyan-600 px-4 py-3 my-8 mx-auto flex items-center">
-          Let's Collaborate
+          전송
         </button>
       </form>
     </div>
